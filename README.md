@@ -3,7 +3,7 @@
 ## Project Overview 
 Unsupervised Learning Analysis to Cluster Stars based on Synthetic Features such as Mass, Temperature, and Radius using KMeans Clustering.
 
-### Libraries and Dependencies
+## Libraries and Dependencies
 - pandas
 - NumPy
 - Matplotlib
